@@ -1,18 +1,14 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CT0222/Nitro-Generator?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/CT0222/NitroGen?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/CT0222/Nitro-Generator">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/CT0222/NitroGen">
   
  
 </p>
 <h1 align="center">
     <img alt="Banner" title="Banner" src="https://i.ibb.co/DVtgHPL/Banner.jpg" />
 </h1>
-
-<h4 align="center"> 
-	NitroGen
-</h4>
 
 ## 💻 Sobre
 
@@ -38,8 +34,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 #### 🎲 Usando (Linux)
 
 ```bash
-
-$ git clone https://github.com/CT0222/Nitro
+$ git clone https://github.com/CT0222/NitroGen
 
 $ cd Nitro-Generator
 
