@@ -8,9 +8,9 @@ print('')
 amount = int(input('Quantos códigos você deseja: '))
 value = 1
 while value <= amount:
-    code = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=16)) 
+    codigo = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=16)) 
     f = open('Nitro.txt', "a+")
-    f.write(f'[CT02] {code}\n')
+    f.write(f'{code}\n')
     f.close()
     print(f'[CT02] {code}')
     value += 1
