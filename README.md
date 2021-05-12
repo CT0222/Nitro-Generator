@@ -7,7 +7,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Banner" title="Banner" src="/assets/banner.png" />
+    <img alt="Banner" title="Banner" src="https://i.ibb.co/DVtgHPL/Banner.jpg" />
 </h1>
 
 <h4 align="center"> 
@@ -23,7 +23,7 @@ NitroGen é um simples gerador de nitro feito em python
 ## 🎨 Preview
 
 <p align="center">
-  <img alt="Preview" title="Preview" src="/assets/preview.png" width="200px">
+  <img alt="Preview" title="Preview" src="https://i.ibb.co/Zh07cx8/Preview.png" width="200px">
 </p>
 
 ---
