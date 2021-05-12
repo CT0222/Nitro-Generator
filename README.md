@@ -31,7 +31,7 @@ NitroGen é um simples gerador de nitro feito em python
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Python](https://python.org). 
 
-#### 🎲 Usando (Linux)
+#### 🎲 Usando (Linux/Termux)
 
 ```bash
 $ git clone https://github.com/CT0222/NitroGen
