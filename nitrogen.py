@@ -10,7 +10,7 @@ value = 1
 while value <= amount:
     codigo = "https://discord.gift/" + ('').join(random.choices(string.ascii_letters + string.digits, k=16)) 
     f = open('Nitro.txt', "a+")
-    f.write(f'{code}\n')
+    f.write(f'{codigo}\n')
     f.close()
-    print(f'[CT02] {code}')
+    print(f'[CT02] {codigo}')
     value += 1
